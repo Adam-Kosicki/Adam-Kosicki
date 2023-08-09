@@ -11,7 +11,7 @@
 ## Contact Information
 
 📞 Phone: +1 (512) 550 - 3183
-📧 Email: [adamjkosicki@gmail.com](mailto:adamjkosicki@gmail.com?subject=Subject%20Here)
+📧 Email: AdamJKosicki@gmail.com
 💼 LinkedIn: [linkedin.com/in/adam-kosicki](https://www.linkedin.com/in/adam-kosicki/)
 
 ## Projects
