@@ -1,6 +1,6 @@
 # Hello, I'm Adam Kosicki!
 
-🎓 Recent Computer Science graduate from the University of Texas at Dallas ☄️
+🎓 Computer Science graduate from the University of Texas at Dallas ☄️
 
 👨‍💻 Passionate about AI and Cloud technologies, with a focus on Azure, AWS, and more!
 
